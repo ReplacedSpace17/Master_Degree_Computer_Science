@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49b6cf87e5b719d0",
+            "id": "057a1b375b042959",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cepas/Chlorella vulgaris.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cepas/Chlorella vulgaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cepas/Chlorella vulgaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cepas/Chlorella vulgaris.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49b6cf87e5b719d0",
+  "active": "057a1b375b042959",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Cepas",
+    "Microalgas.md",
+    "Cepas/Chlorella vulgaris.md",
+    "Antecedentes"
   ]
 }
