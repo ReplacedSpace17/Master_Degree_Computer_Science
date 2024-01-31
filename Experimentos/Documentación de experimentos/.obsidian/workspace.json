@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "696e228e23b0765b",
+    "id": "c031c3f78e37efd2",
     "type": "split",
     "children": [
       {
-        "id": "3f60cd780df8697a",
+        "id": "34de2ef9ac305fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "93939d8996624af6",
+            "id": "1e851fcac8fa50cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Materias/Inteligencia artificial/3 Aplicaciones de la IA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "652bde0ae9cbdb53",
+    "id": "978720c1e8af8955",
     "type": "split",
     "children": [
       {
-        "id": "b5103b379783b49c",
+        "id": "7760dd0bbf96b44b",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd6ba3e7fb40807",
+            "id": "69e689825ea0cdff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "832d7f777f7ee181",
+            "id": "a30485672cc70777",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "23879f7a3a89c176",
+            "id": "3a8b38d23432c860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "8a7e681fa17b7a9f",
+    "id": "679d053db14f4016",
     "type": "split",
     "children": [
       {
-        "id": "fd4b5eb59e8bff5e",
+        "id": "805a13b1bbe887bf",
         "type": "tabs",
         "children": [
           {
-            "id": "5b871da6fbd64c91",
+            "id": "fdbb3c3d65192c19",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Inteligencia artificial/3 Aplicaciones de la IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "28f428e8f76f2454",
+            "id": "406e0ef820341759",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Materias/Inteligencia artificial/3 Aplicaciones de la IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2197be29f2415910",
+            "id": "c1a8465d949c0391",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +120,20 @@
             }
           },
           {
-            "id": "7020460762f05469",
+            "id": "032466b71ee51b34",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Materias/Inteligencia artificial/3 Aplicaciones de la IA.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +145,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93939d8996624af6",
+  "active": "1e851fcac8fa50cf",
   "lastOpenFiles": [
-    "Cepas/Chlorella vulgaris.md",
-    "Cepas",
-    "Microalgas.md",
-    "Antecedentes"
+    "Imagenes/Pasted image 20240130203556.png",
+    "Materias/Inteligencia artificial/3 Aplicaciones de la IA.md",
+    "Imagenes",
+    "Materias",
+    "Experimentos",
+    "Materias/Probabilidad y estadística",
+    "Experimentos/Muérdago/Variaciones de la estructura de los hausterios.md",
+    "Materias/Inteligencia artificial",
+    "Imagenes/Pasted image 20240130203939.png",
+    "Imagenes/Pasted image 20240130203927.png",
+    "Imagenes/Pasted image 20240130203752.png",
+    "Imagenes/Pasted image 20240130203653.png",
+    "Imagenes/Pasted image 20240130203619.png",
+    "Experimentos/Muérdago",
+    "Welcome.md"
   ]
 }
